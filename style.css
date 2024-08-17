@@ -38,7 +38,7 @@ p {
     font-weight: bold;
  }
 
- a {
+ a:hover {
     color:green;
   }
 
