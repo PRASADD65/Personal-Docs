@@ -6,5 +6,5 @@ document.getElementById("sec").addEventListener("click",function()
 
 function grtalert()
 {
-    img
+    alert("Message me for my whatsup number 9686928900 for this full video");
 }
